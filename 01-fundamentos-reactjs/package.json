@@ -1,0 +1,11 @@
+{
+  "name": "ignite-rocketseat-reactjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tosantos1/ignite-rocketseat-reactjs.git",
+  "author": "Tiago Oliveira <tiagolivesan@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
