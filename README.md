@@ -1,5 +1,6 @@
 <div align="center" >
-  <img src="wallpaper/1920x1080.png" width="100%"/>
+  <img src="wallpaper/1920x1080.png" width="100%" 
+                height="100%"/>
   
 </div>
 
