@@ -17,7 +17,7 @@
 
 <!-- ************************************* Sobre o projeto ********************************************* -->
 
-<h2>🚀 Chapter I</h2>
+<h2>1️⃣ Chapter I</h2>
 
 <p> Nesse módulo aprendemos sobre estrutura base de uma aplicação React, Webpack, Babel, Webpack Dev server, SASS,Source Maps, Fast Refresh Conceitos importantes do React como componentes, propriedades, estados e hooks além de aplicar o .TypeScript no nosso projeto para adicionar tipagem estática à aplicação.</p>
 
